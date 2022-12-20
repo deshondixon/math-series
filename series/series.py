@@ -1,4 +1,8 @@
 def fibonacci(n):
+    if n < 0:
+        print("Incorrect input")
+        return
+
     if n == 0:
         return 0
 
@@ -10,6 +14,10 @@ def fibonacci(n):
 
 
 def lucas(n):
+    if n < 0:
+        print("Incorrect input")
+        return
+
     if n == 0:
         return 2
 
@@ -21,6 +29,10 @@ def lucas(n):
 
 
 def sum_series(n, x=0, y=1):
+    if n < 0:
+        print("Incorrect input")
+        return
+
     if n == 0:
         return x
 
