@@ -1,6 +1,5 @@
-import pytest
 # from package_name.module_name import function_name
-from series.series import fibonacci, lucas, sum_series
+from tests.series import fibonacci, lucas, sum_series
 
 
 # pytest tests must start with "test_"
