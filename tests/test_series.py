@@ -5,13 +5,13 @@ from series.series import fibonacci, lucas, sum_series
 
 # pytest tests must start with "test_"
 
-def test_fibonacci_exists_one():
+def fibonacci_exists_one():
     actual = fibonacci(0)
     expected = 0
     assert actual == expected
 
 
-def test_fibonacci_exists_two():
+def fibonacci_exists_two():
     actual = fibonacci(1)
     expected = 1
     assert actual == expected
