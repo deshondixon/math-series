@@ -3,11 +3,9 @@
 
 ## math-series
 
----
 
 #### DeShon Dixon
 
----
 
 ## Overview
 
