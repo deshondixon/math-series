@@ -1,6 +1,5 @@
 # LAB 2 - Class 401d20
 
----
 
 ## math-series
 
