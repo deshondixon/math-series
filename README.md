@@ -1,35 +1,31 @@
 # LAB 2 - Class 401d20
 
+---
+
 ## math-series
 
-Author: DeShon Dixon
+---
 
-Links and Resources
+#### DeShon Dixon
 
-back-end server url (when applicable)
+---
 
-front-end application (when applicable)
+## Overview
 
-Setup
+The fibonacci function returns the nth value in the fibonacci series. Implemented using recursion.
 
-.env requirements (where applicable)
+The lucas function returns the nth value in the lucas numbers. Implemented using recursion.
 
-i.e.
+Both the fibonacci series and the lucas numbers are based on an identical formula. 
 
-PORT - Port Number
+The sum_series function has one required parameter and two optional parameters. The required parameter determines which element in the series to print. The two optional parameters have default values of 0 and 1 and determine the first two values for the series to be produced.
 
-DATABASE_URL - URL to the running Postgres instance/db
+Calling the sum_series function with no optional parameters produces numbers from the fibonacci series. 
 
-How to initialize/run your application (where applicable)
+Calling the sum_series function with the optional arguments 2 and 1 produce values from the lucas numbers. 
 
-e.g. python main.py
+Other values for the optional parameters will produce other series. Implemented using recursion.
 
-How to use your library (where applicable)
+---
 
-Tests
-
-How do you run tests?
-
-Any tests of note?
-
-Describe any tests that you did not complete, skipped, etc
+## Tests
