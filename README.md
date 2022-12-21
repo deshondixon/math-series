@@ -23,6 +23,5 @@ Calling the sum_series function with the optional arguments 2 and 1 produce valu
 
 Other values for the optional parameters will produce other series. Implemented using recursion.
 
----
 
 ## Tests
