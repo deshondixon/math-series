@@ -4,7 +4,7 @@
 ## math-series
 
 
-#### *Author: DeShon Dixon*
+#### *Author:* DeShon Dixon
 
 ---
 
